@@ -1,0 +1,28 @@
+git branch              -подивитись вітки 
+git branch pz_1_3_1     -створити нову вітку
+git branch              - ***
+git checkout pz_1_3_1   - перейти на цю вітку
+type pz_1_3_1.txt       -подивитись документ
+git checkout master     -злиття двох віток
+git merge pz_1_3_1      - злиття двох віток
+git branch              -***
+git branch -d pz_1_3_1  -видалити вітку
+type pz_1_3_1           -***
+              (до злиття віток,коли див інфо з master, то нічого не виводилоБ а після злиття віток інфо стало видно з вітки master)
+              (чому інфо з блокноту збереглась на новій вітці, а не master?)
+git branch               - ***
+git status               - ***
+git add .                - ***
+git status               - ***
+git push                 - копіювати в глобальний репозиторій
+git branch Developer     - ***
+git branch               - ***
+git checkout Developer   - перейти на вітку
+git branch               - ***
+git status               - ***
+git add .                - ***
+git commit -m "Forty"    - ***
+git status               - ***
+git push                 - ***
+
+
