@@ -1,0 +1,166 @@
+body.bodyone {
+    background: #d2d4d6;
+}
+
+p {
+    text-indent: 10px;
+    margin-top: 0;
+    margin-left: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: #267326;
+    text-decoration: none
+}
+
+.noneline {
+    text-decoration: none;
+}
+
+.quote {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.favbook {
+    font-weight: bold;
+    text-decoration: underline;
+    font: 30px;
+}
+
+.myname {
+    font-style: italic;
+}
+
+.image {
+    width: 155px;
+    height: 255px;
+    float: left;
+    margin-right: 10px;
+}
+
+.descr {
+    font-weight: bold;
+}
+
+.descr2 {
+    font-style: italic;
+}
+
+#mark {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.zmist {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.div1 {
+    border-bottom: 3px solid midnightblue;
+}
+
+
+
+.bodytwo {
+    background-image: url("sea.jpg");
+    background-position: bottom;
+    background-attachment: fixed;
+
+}
+
+.logo {
+    width: 450px;
+    height: 160px;
+    position: fixed;
+    left: 70%;
+}
+
+.pict1 {
+    height: 400px;
+    float: left;
+    margin-right: 15px;
+}
+
+.div {
+    width: 100%;
+    float: left;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.pict2 {
+    width: 500px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.background_color {
+    background: #7E7E7E;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.centerfilm {
+    text-align: center;
+}
+
+.grand {
+    display: block;
+    width: 70%;
+    margin-left: 30px;
+}
+
+
+.zag {
+    margin-bottom: 60px;
+    margin-left: 450px;
+}
+
+
+
+.ttt {
+    text-align: justify;
+    margin-left: 5px;
+    width: 95%;
+}
+
+table {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #5bff5b;
+    border: 1px solid #000000;
+}
+
+th {
+    border: 1px solid #000000;
+}
+
+td {
+    border: 1px solid #000000;
+}
+
+.top {
+    background-color: #009900;
+}
+
+.name {
+   background-color: #008000;
+}
+
+p {
+
+}
+
+
